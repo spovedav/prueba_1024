@@ -1,5 +1,5 @@
 # PRUEBA1
-## Es un pequeño sistema para asignación de un agente de forma automatica
+## Es un pequeño sistema para asignación de día libre de forma automatica
 
 #### Usuario |	Lunes|	Martes|	Miércoles |	Jueves	|Viernes	|Sábado	| Domingo
 ###  usu1	  |  0	  |  0	  |    1	      |  1	    |  1	     | 1	  |    1
