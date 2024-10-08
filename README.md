@@ -20,3 +20,5 @@ por el mometo no esta lo de roles., solo le di prioridad a que cargue como lo te
 se tiene pensados agregar más cosas, pero lo dejo hasta ahy por el momento..
 
 
+### Script::SCRIPT BASE DE DATOS
+
